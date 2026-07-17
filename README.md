@@ -1,0 +1,2 @@
+# item_scanner
+This project is the app to scan your items and insert them later in the item organizer. If you are searching an item you can simple search in the database to find it and the item organzier will bring it to you!
